@@ -1,0 +1,5 @@
+#while True
+    # print('Im unstoppble')
+    
+#DISCLAIMER DANGER TO RUN MIGHT CRASH YOUR PC!
+#REMOVE COMMENTS IF YOU WANT TO TRY GOODLUCK
